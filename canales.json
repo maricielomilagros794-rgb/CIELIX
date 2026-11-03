@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "nombre": "América Televisión",
+    "categoría": "Entretenimiento",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png",
+    "url": "http://190.93.224.42/AMERICA-TV/index.m3u8"
+  },
+  {
+    "id": "2",
+    "nombre": "Latina",
+    "categoría": "Entretenimiento",
+    "imagen": "https://i.imgur.com/MOsWriY.png",
+    "url": "http://190.93.224.42/LATINA/index.m3u8"
+  },
+  {
+    "id": "3",
+    "nombre": "ATV",
+    "categoría": "Entretenimiento",
+    "imagen": "https://i.imgur.com/eUzYZfg.png",
+    "url": "http://190.93.224.42/ATV/index.m3u8"
+  },
+  {
+    "id": "4",
+    "nombre": "Panamericana TV",
+    "categoría": "Variedades",
+    "imagen": "https://i.imgur.com/uQhEDES.png",
+    "url": "http://45.171.108.253:8888/PANAMERICANA/index.m3u8"
+  },
+  {
+    "id": "5",
+    "nombre": "TV Perú",
+    "categoría": "Nacional",
+    "imagen": "https://i.imgur.com/6io0IrX.png",
+    "url": "http://190.93.224.42/TV-PERU/index.m3u8"
+  },
+  {
+    "id": "6",
+    "nombre": "Primavera15",
+    "categoría": "Peliculas",
+    "imagen": "https://i.imgur.com/wsJ8Ag2.png",
+    "url": "https://mc.servidor.stream:19360/8244/8244.m3u8"
+  },
+  {
+    "id": "7",
+    "nombre": "RadioOndaDigital",
+    "categoría": "Noticias",
+    "imagen": "https://i.imgur.com/Lid5RTv.png",
+    "url": "https://live.ondadigitaltv.com/RADIODDTV/index.m3u8"
+  },
+  {
+    "id": "8",
+    "nombre": "Willax TV",
+    "categoria": "Noticias",
+    "imagen": "https://i.imgur.com/bZnDDPH.png",
+    "url": "http://190.93.224.42/WILLAX/index.m3u8"
+  },
+  {
+    "id": "9",
+    "nombre": "SuperCanal",
+    "categoria": "Dibujos",
+    "imagen": "https://i.imgur.com/eotfCMd.png",
+    "url": "https://live-evg7.tv360.bitel.com.pe/bitel/supercanalSRT/playlist.m3u8"
+  },
+  {
+    "id": "10",
+    "nombre": "Exitosa TV",
+    "categoria": "Noticias",
+    "imagen": "https://i.imgur.com/pu0BSB7.png",
+    "url": "http://190.93.224.42/EXITOSA/index.m3u8"
+  }
+]
